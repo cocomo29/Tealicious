@@ -1,6 +1,3 @@
-
-
-
 <p align="center" > 
     <a href="#" target="_blank"> <img src="./assets/logo.jpg"/> </a>
     <h1 align="center">Tealicious Theme 🌊💻</h1>
