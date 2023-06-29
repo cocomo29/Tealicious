@@ -1,0 +1,41 @@
+{
+  "name": "Tealicious",
+  "displayName": "Tealicious",
+  "description": "a Tealicious Visual Studio Code theme!",
+  "version": "0.0.1",
+  "publisher": "Haroon",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cocomo29/Tealicious"
+  },
+  "license": "MIT",
+  "icon": "icon.png",
+  "keywords": [
+    "theme",
+    "dark",
+    "tealicious",
+    "teal",
+    "cocomo",
+    "cocomo29",
+    "haroon",
+    "dark theme",
+    "dark theme for vscode",
+    "color theme",
+    "teal theme"
+  ],
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tealicious",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tealicious-color-theme.json"
+      }
+    ]
+  }
+}
